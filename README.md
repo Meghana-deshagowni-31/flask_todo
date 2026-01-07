@@ -1,6 +1,7 @@
 # 📝 Flask Todo App
 
-A simple Todo application built using **Flask** and **SQLite** — perfect for learning CRUD operations, templates, and basic backend development.
+A simple, clean Todo application built using **Flask** and **SQLite**.  
+This app lets you add, edit, and delete tasks — a perfect beginner project for learning CRUD and backend basics.
 
 ---
 
@@ -9,25 +10,15 @@ A simple Todo application built using **Flask** and **SQLite** — perfect for l
 - Add tasks
 - Edit tasks
 - Delete tasks
-- Stores data in SQLite
-- Simple, clean UI
-
----
-
-## 🛠️ Tech Stack
-
-- **Python**
-- **Flask**
-- **SQLite**
-- **HTML (Jinja Templates)**
+- Stores tasks using SQLite
+- Beginner friendly
+- Ready to deploy
 
 ---
 
 ## ▶️ How to Run Locally
 
-Follow these steps:
-
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the project
 
 ```bash
 git clone https://github.com/Meghana-deshagowni-31/flask_todo.git
